@@ -1,0 +1,1 @@
+{"version":3,"file":"macprocessor.js","sourceRoot":"","sources":["../../../../src/design_patterns/factory/models/macprocessor.ts"],"names":[],"mappings":";;AAKA,MAAqB,YAAY;IAG7B,gBAAc,CAAC;IAEf,aAAa,CAAC,OAAgB;QAC1B,IAAI,CAAC,OAAO,GAAG,OAAO,CAAC,cAAc,EAAE,CAAC;QACxC,OAAO,OAAO,CAAC,cAAc,EAAE,CAAC;IACpC,CAAC;IAED,QAAQ;QACJ,OAAO,UAAU,CAAC;IACtB,CAAC;CAEJ;AAdD,+BAcC"}

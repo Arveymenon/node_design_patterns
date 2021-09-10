@@ -1,0 +1,1 @@
+{"version":3,"file":"macstorage.js","sourceRoot":"","sources":["../../../../src/design_patterns/factory/models/macstorage.ts"],"names":[],"mappings":";;AAEA,MAAqB,UAAU;IAE3B,YAAY,IAAY;QACpB,IAAI,CAAC,YAAY,GAAG,IAAI,CAAA;IAC5B,CAAC;IAED,cAAc;QACV,OAAO,IAAI,CAAC,YAAY,CAAA;IAC5B,CAAC;CACJ;AATD,6BASC"}
