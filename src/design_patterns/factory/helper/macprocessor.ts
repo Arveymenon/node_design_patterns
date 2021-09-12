@@ -3,8 +3,7 @@ import Storage from "../interfaces/storage";
 
 export default class MacProcessor implements Processor{
  
-    constructor(){
-    }
+    constructor(){}
     
     attachStorage(storage: Storage): number{
         this.storage = storage.getStorageSize();
