@@ -11,7 +11,6 @@ const port = 5000
 app.get('/', (_, res) => {
   res.status(200).send()
 })
-new Middleware(app)
 
 // new RunSingleton()
 
@@ -23,5 +22,6 @@ new Middleware(app)
 
 // new Strategy(1200)
 
+// new Middleware(app)
 
 app.listen(port, () => console.log(`Running on port ${port}`))
