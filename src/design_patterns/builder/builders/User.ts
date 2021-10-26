@@ -14,7 +14,7 @@ export class UserBuilder{
         this.age = age
         return this
     }
-    
+     
     setGender(gender: "male" | "female" | "other"){
         this.gender = gender
         return this
